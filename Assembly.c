@@ -114,7 +114,7 @@ void loop() {
 
   }
 
-  if(ultrasonic<=100)
+  if(distance<=100)
 
   {
 
